@@ -2,4 +2,5 @@
 00-Meta/
 .lore-tools/
 abby-search/
-.obsidian/
+.obsidian/*
+!.obsidian/graph.json
